@@ -9,4 +9,4 @@
 - Fixed noise for clear comparison between epochs
 
 
-==> DCGAN from github 'akashkadel'
+==> DCGAN from github 'akashkadel' with smol tweaks
